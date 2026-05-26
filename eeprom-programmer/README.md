@@ -2,4 +2,4 @@
 
 EEPROM programmer using arduino uno r4 wifi.
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)
