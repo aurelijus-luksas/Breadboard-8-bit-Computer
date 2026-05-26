@@ -74,4 +74,4 @@ All modules connected together on the bus. The yellow LEDs along the bottom show
 
 [📋 Other Info](./OTHER.md) 
 
-[EEPROM Code](./eeprom-programmer/README.md)
+[EEPROM Code](./eeprom-programmer)
