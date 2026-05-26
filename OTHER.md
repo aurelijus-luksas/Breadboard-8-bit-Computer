@@ -17,6 +17,14 @@
 
 ---
 
+## Used Parts
+
+The list of parts used and where to buy them can be found in the **parts_list.xlsx**
+
+[Parts List](./parts_list.xlsx)
+
+---
+
 ## Approximate Total Cost
 
 | **Total** | **~€160-220** |
